@@ -1,1 +1,2 @@
-# hammer-game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
